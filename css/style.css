@@ -8503,6 +8503,11 @@ textarea.form-control {
   width: 235px;
   height: 175px; }
 
+.event-card {
+  height: 262px;
+  width: 100%;
+}
+
 .blog-entry {
   border: 1px solid #f2f2f2;
   display: flex;
