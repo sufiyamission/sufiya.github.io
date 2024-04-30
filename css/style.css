@@ -2508,6 +2508,11 @@ input[type="button"].btn-block {
 .dropdown-toggle:empty::after {
   margin-left: 0; }
 
+  .header-wrapper {
+    display: flex;
+    justify-content: space-between;
+  }
+
 .dropdown-menu {
   position: absolute;
   top: 100%;
@@ -3275,6 +3280,10 @@ input[type="button"].btn-block {
   font-size: 1.25rem;
   line-height: inherit;
   white-space: nowrap; }
+
+  img {
+    width: 200px;
+  }
   .navbar-brand:hover, .navbar-brand:focus {
     text-decoration: none; }
 
